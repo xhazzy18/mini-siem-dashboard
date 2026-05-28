@@ -115,5 +115,3 @@ This project was created to practice:
 * Streamlit web interface
 * Email alerting system
 
-Abdul Rahim Memon
-Cyber Security Student | Python | OWASP | Threat Analysis
